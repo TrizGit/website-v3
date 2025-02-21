@@ -8,7 +8,7 @@ body {
     font-size: medium;
     color: white;
     background-color: #500;
-    margin: 0px;
+    margin: 0%;
     padding: 0px;
 }
 
@@ -17,7 +17,7 @@ header {
     text-align: center;
     color: white;
     background-color: #f00;
-    margin: 0;
+    margin: 0%;
     padding: 4px;
 }
 
@@ -26,15 +26,15 @@ footer {
     text-align: center;
     color: white;
     background-color: #f00;
-    margin-top: 0;
+    margin: 0%;
     padding: 0px;
 }
 
 h1 {
     font-size: 48px;
-    margin: 0px;
+    margin: 0%;
     background-color: #a00;
-    padding: 10px;
+    padding: 20px;
 }
 
 h2 {
