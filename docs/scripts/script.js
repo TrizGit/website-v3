@@ -1,1 +1,5 @@
-// It's empty... for now...
+window.addEventListener('load', function() {
+    if (!document.querySelector('main')) {
+      window.location.href = '/website-v3/404.html';
+    }
+});
