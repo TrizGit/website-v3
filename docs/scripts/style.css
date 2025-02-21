@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    width: 100%;
+    width: 120%;
     text-align: center;
     color: white;
     background-color: #f00;
@@ -24,7 +24,7 @@ header {
 }
 
 footer {
-    width: 100%;
+    width: 120%;
     text-align: center;
     color: white;
     background-color: #f00;
@@ -33,13 +33,14 @@ footer {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 48px;
     margin: 0px;
     background-color: #a00;
+    padding: 10px;
 }
 
 h2 {
-    font-size: 48px;
+    font-size: 36px;
 }
 
 button {
@@ -67,14 +68,14 @@ img {
 }
 
 .img-place {
-  display: flex; /* Use flexbox for layout */
-  justify-content: center; /* Center-align items horizontally */
-  margin: 20px 0; /* Adds vertical spacing between each container */
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center-align items horizontally */
+    margin: 20px 0; /* Adds vertical spacing between each container */
 }
     
 .img-box {
-  text-align: center; /* Center-align items inside */
-  margin: 0 10px; /* Adds horizontal spacing between each item */
+    text-align: center; /* Center-align items inside */
+    margin: 0 10px; /* Adds horizontal spacing between each item */
 }
 
 .lineTM {
