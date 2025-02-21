@@ -1,0 +1,63 @@
+/*You do need to remember that these styles are from the glitch site*/
+
+body {
+    text-align: left;
+    text-decoration: none;
+    text-shadow: 3px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: white;
+    background-color: #a00;
+}
+
+header {
+    text-align: center;
+    color: white;
+    background-color: #f00;
+    margin: auto;
+    padding: 4px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: #f00;
+    margin-top: auto;
+    padding: 0px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #FF0000;
+    border-color: #FFFFFF;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    max-width: 50%; /* Ensures the image doesn't exceed the container width */
+    height: auto; /* Maintains the aspect ratio */
+}
+
+.lineTM {
+    border: none; 
+    height: 3px; 
+    background-color: #FFFFFF;
+}
+
+.c-align {
+    text-align: center;
+}
+
+.banner-box {
+    width: 1600px; /* Set a container width */
+    height: 400px; /* Set a container height */
+    overflow: hidden;
+}
