@@ -2,7 +2,31 @@ body {
     text-align: left;
     text-decoration: none;
     text-shadow: black;
-    background-color: #a00;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
+    color: white;
+    background-color: #a00;
+}
+
+header {
+    text-align: center;
+    color: white;
+    background-color: #f00;
+    padding: 4px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: #f00;
+    padding: 0px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.c-align {
+    text-align: center;
 }
