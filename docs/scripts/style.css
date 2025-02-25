@@ -91,6 +91,11 @@ img {
     text-align: center;
 }
 
+.c-align-iframe {
+    display: flex;
+    justify-content: center;
+}
+
 .banner-box {
     width: 1600px;
     height: 400px;
