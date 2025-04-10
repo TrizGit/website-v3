@@ -12,6 +12,11 @@ body {
     padding: 0px;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 header {
     width: 100%;
     text-align: center;
@@ -109,14 +114,4 @@ img {
 
 .ver {
     padding: 10px;
-}
-
-.yt-hr-vid {
-    width: 1137;
-    height: 640;
-}
-
-.yt-vr-vid {
-    width: 360;
-    height: 640;
 }
