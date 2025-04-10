@@ -110,3 +110,13 @@ img {
 .ver {
     padding: 10px;
 }
+
+.yt-hr-vid {
+    width: 1137;
+    height: 640;
+}
+
+.yt-vr-vid {
+    width: 360;
+    height: 640;
+}
