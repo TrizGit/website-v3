@@ -1,6 +1,5 @@
 # Triz Unofficial Web v3
-If you're seeing this, you're a loser haha. (just kidding)
-
+If you're seeing this, you're a loser haha. (just kidding)  
 Anyway view the website [here](https://bit.ly/trizgame-website-v3).<!-- yes i'm using the bit.ly link -->
 
 ## How it all started
