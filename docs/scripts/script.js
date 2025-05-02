@@ -1,3 +1,3 @@
 window.onload = function() {
-    document.getElementById('webVer').innerHTML = "v3.1.0"; // Change the version
+    document.getElementById('webVer').innerHTML = "v3.1.1"; // Change the version
 };
