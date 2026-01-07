@@ -117,7 +117,9 @@ img {
 }
 
 .h-vid {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 50%;
 }
