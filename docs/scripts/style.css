@@ -108,10 +108,16 @@ img {
 }
 
 .side-margins {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .ver {
     padding: 10px;
+}
+
+.h-vid {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
 }
